@@ -1,2 +1,1 @@
-# inventariomotocarros.github.io
-Inventario Motocarros - Sistema de Trazabilidad
+Añadir aplicación de inventario
